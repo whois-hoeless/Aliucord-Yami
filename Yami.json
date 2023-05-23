@@ -2,9 +2,9 @@
     "manifest": {
         "author": "whois.hoeless#1682",
         "name": "Yami\n",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "license": "I stole yami lol",
-        "updater": "https://raw.githubusercontent.com/whois-hoeless/Aliucord-Yami/master/Yami.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/whois-hoeless\/Aliucord-Yami\/master\/Yami.json"
     },
     "background": {},
     "fonts": {},
@@ -50,9 +50,6 @@
         "status_green_830": -4594605,
         "status_green_860": -4594605,
         "status_green_900": -4594605,
-
-
-
         "status_red": -48514,
         "status_red_100": -48514,
         "status_red_130": -48514,
@@ -81,9 +78,6 @@
         "status_red_830": -48514,
         "status_red_860": -48514,
         "status_red_900": -48514,
-
-        
-
         "status_yellow": -1386925,
         "status_yellow_100": -1386925,
         "status_yellow_130": -1386925,
@@ -112,9 +106,6 @@
         "status_yellow_830": -1386925,
         "status_yellow_860": -1386925,
         "status_yellow_900": -1386925,
-
-
-
         "status_grey": -14145491,
         "status_grey_100": -14145491,
         "status_grey_130": -14145491,
@@ -141,9 +132,15 @@
         "status_grey_800": -14145491,
         "status_grey_830": -14145491,
         "status_grey_860": -14145491,
-        "status_grey_900": -14145491
-
+        "status_grey_900": -14145491,
+        "uikit_btn_bg_color_selector_green": -4594605,
+        "uikit_btn_bg_color_selector_red": -48514,
+        "uikit_settings_item_text_color_light": -13948355,
+        "premium_perk_green": -4594605,
+        "premium_perk_green_500": -4594605
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "drawable_voice_indicator_speaking": -4594605
+    },
     "raws": {}
 }
